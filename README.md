@@ -1,6 +1,6 @@
 # Hi there! My name is Regan Day 👋
 
-### I am a current student at the University of Iowa in the Tippie College of Business and College of Liberal Arts and Sciences. I am a triple major in Business Analytics and Information Systems, Marketing Analytics, and Political Science.
+I am a current student at the University of Iowa in the Tippie College of Business and College of Liberal Arts and Sciences. I am a triple major in Business Analytics and Information Systems, Marketing Analytics, and Political Science.
 
 ## Business Analytics Classes Taken in Tippie: 
 - Foundations of Business Analytics
